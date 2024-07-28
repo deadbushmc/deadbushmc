@@ -16,4 +16,4 @@ title="PayPal – The safer, easier way to pay online!" border="0" />
 
 - <a href="https://youtube.com/deadbush">YouTube</a>
 
-- <a href="https://discord.gg/q7fKBTfeYp">Discord</a>
+- <a href="https://discord.gg/j5x7uZASSp">Discord</a>
